@@ -1,1 +1,2 @@
-        scanf("%d", &n[i]);
+ // firstInsert(100);
+  // firstInse

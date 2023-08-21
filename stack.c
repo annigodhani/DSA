@@ -3,7 +3,7 @@
 int a[n];
 int top = -1,k;
 int Display()
-{
+{                                                                                                                                                                                                                                 
  if(top<0)
  printf("Array is Empty....");
  else
@@ -30,8 +30,8 @@ int main()
 insertend(100);
 insertend(200);
 insertend(300);
-insertend(400);
-insertend(500);
-insertend(600);
+// insertend(400);
+ insertend(500);
+// insertend(600);
 Display();
 }
