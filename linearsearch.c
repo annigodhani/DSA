@@ -4,7 +4,7 @@
 int linearsearch(int a[],int x)
 {
     for(int k=0;k<n;k++)
-    {
+    { 
         if(a[k] == x)
         {
             return k+1;
