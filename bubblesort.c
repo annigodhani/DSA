@@ -34,7 +34,8 @@ int main()
 
     bubblesort(a,v);
     printf("\nSorted array: ");
-    for (y=0;y<v;y++) {
+    for (y=0;y<v;y++) 
+    {
         printf("%d ",a[y]);
     }
 

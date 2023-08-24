@@ -36,7 +36,7 @@ int main()
     printf("\nSorted array: ");
     for (y=0;y<v;y++) 
     {
-        printf("%d ",a[y]);
+      printf("%d ",a[y]);
     }
 
     return 0;
